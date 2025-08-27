@@ -10,11 +10,11 @@
     "url": "git+https://github.com/juniorSarh/Typescript-7.1.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Sabelo Gumede",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/juniorSarh/Typescript-7.1/issues"
   },
   "homepage": "https://github.com/juniorSarh/Typescript-7.1#readme",
-  "description": ""
+  "description": "typescript 101 to 7.1"
 }
